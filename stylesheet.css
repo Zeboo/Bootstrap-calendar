@@ -1,0 +1,31 @@
+.table-condensed{
+    width: 343px;
+height: 320px;
+top: 6218px;
+left: 3385px;
+border-radius: 13px;
+background: #FFFFFF;
+box-shadow: 0px 10px 60px 0px #0000001A;
+color:red;
+
+
+}
+.dayrow{
+    width: 311;
+height: 18;
+top: 56px;
+left: 16px;
+justify-content: space-between;
+font-style: "SF Pro Text";
+font-weight: 600;
+font-size: 13px;
+line-height: 18px;
+letter-spacing: -0.08px;
+text-align: center;
+color: #3C3C434D;
+
+}
+.btn-danger{
+    border-radius:160px;
+}
+
